@@ -1,6 +1,6 @@
 # Day 5
 
-**I Created my own resume data in JSON formate.**
+**I Created my own resume data in JSON format.**
 **For the JSON, I use for loop, for in loop, for of loop and forEach loop,**
 
 **1.Resume data in JSON formate using**[ for loop](/jasonResume/usingForLoop.js)
